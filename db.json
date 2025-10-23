@@ -1,0 +1,29 @@
+{
+  "Receita": [
+    { "id": 1, "nome": "Lançamento de Receita 1", "data": "2025-10-23", "volume": true, "valor": 2500.00,  "idCategoriaReceita": 1, "idCliente": 1 },
+    { "id": 2, "nome": "Lançamento de Receita 2", "data": "2025-10-23", "volume": false, "valor": 50.00,  "idCategoriaReceita": 1, "idCliente": 1 },
+    { "id": 3, "nome": "Lançamento de Receita 3", "data": "2025-10-23", "volume": true, "valor": 350.00, "idCategoriaReceita": 2, "idCliente": 1 },
+    { "id": 4, "nome": "Lançamento de Receita 4", "data": "2025-10-23", "volume": false, "valor": 100.00,  "idCategoriaReceita": 3, "idCliente": 1 }
+  ],
+  "Despesa": [
+    { "id": 1, "nome": "Lançamento de Despesa 1", "data": "2025-10-23", "volume": true, "valor": 200.00, "quantidadeParcelas": 0,  "idCategoriaDespesa": 1, "idCliente": 1 },
+    { "id": 2, "nome": "Lançamento de Despesa 2", "data": "2025-10-23", "volume": false, "valor": 30.00, "quantidadeParcelas": 3,  "idCategoriaDespesa": 1, "idCliente": 1 },
+    { "id": 3, "nome": "Lançamento de Despesa 3", "data": "2025-10-23", "volume": true, "valor": 50.00, "quantidadeParcelas": 6, "idCategoriaDespesa": 2, "idCliente": 1 },
+    { "id": 4, "nome": "Lançamento de Despesa 4", "data": "2025-10-23", "volume": false, "valor": 700.00, "quantidadeParcelas": 2,  "idCategoriaDespesa": 3 , "idCliente": 1}
+  ],
+  "CategoriaReceita": [
+    { "id": 1, "nome": "Categoria de Receita 1", "idCliente": 1 },
+    { "id": 2, "nome": "Categoria de Receita 2", "idCliente": 1 },
+    { "id": 3, "nome": "Categoria de Receita 3", "idCliente": 1 }
+  ],
+  "CategoriaDespesa": [
+    { "id": 1, "nome": "Categoria de Despesa 1", "limiteGasto": true, "valorLimite": 1402.20, "idCliente": 1 },
+    { "id": 2, "nome": "Categoria de Despesa 2", "limiteGasto": true, "valorLimite": 1402.20, "idCliente": 1 },
+    { "id": 3, "nome": "Categoria de Despesa 3", "limiteGasto": true, "valorLimite": 1402.20, "idCliente": 1 }
+  ],
+  "Parcela": [
+    { "id": 1, "valorParcela": 100.00, "idDespesa": 1 },
+    { "id": 2, "valorParcela": 50.00, "idDespesa": 2 },
+    { "id": 3, "valorParcela": 20.00, "idDespesa": 3 }
+  ]
+}
