@@ -12,16 +12,16 @@
     { "id": 4, "tipo": "Despesa", "nome": "Compras do mês", "data": "2025-09-03", "volume": false, "valor": 1200.00, "parcelada": true, "quantidadeParcelas": 3,  "idCategoriaDespesa": 2, "idFormaPagamento": 4, "idCliente": 1}
   ],
   "CategoriaReceita": [
-    { "id": 1, "nome": "Salário e Proventos", "idCliente": 1 },
-    { "id": 2, "nome": "Serviços Prestados", "idCliente": 1 },
-    { "id": 3, "nome": "Presentes e Doações", "idCliente": 1 },
-    { "id": 4, "nome": "Aluguel recebido", "idCliente": 1 }
+    { "id": 1, "tipo": "Receita", "nome": "Salário e Proventos", "idCliente": 1 },
+    { "id": 2, "tipo": "Receita", "nome": "Serviços Prestados", "idCliente": 1 },
+    { "id": 3, "tipo": "Receita", "nome": "Presentes e Doações", "idCliente": 1 },
+    { "id": 4, "tipo": "Receita", "nome": "Aluguel recebido", "idCliente": 1 }
   ],
   "CategoriaDespesa": [
-    { "id": 1, "nome": "Moradia", "limiteGasto": true, "valorLimite": 800.00, "idCliente": 1 },
-    { "id": 2, "nome": "Alimentação", "limiteGasto": true, "valorLimite": 1200.00, "idCliente": 1 },
-    { "id": 3, "nome": "Lazer", "limiteGasto": true, "valorLimite": 400.00, "idCliente": 1 },
-    { "id": 4, "nome": "Transporte", "limiteGasto": true, "valorLimite": 300.00, "idCliente": 1 }
+    { "id": 1, "tipo": "Despesa", "nome": "Moradia", "limiteGasto": true, "valorLimite": 800.00, "idCliente": 1 },
+    { "id": 2, "tipo": "Despesa", "nome": "Alimentação", "limiteGasto": true, "valorLimite": 1200.00, "idCliente": 1 },
+    { "id": 3, "tipo": "Despesa", "nome": "Lazer", "limiteGasto": true, "valorLimite": 400.00, "idCliente": 1 },
+    { "id": 4, "tipo": "Despesa", "nome": "Transporte", "limiteGasto": true, "valorLimite": 300.00, "idCliente": 1 }
   ],
   "Parcela": [
     { "id": 1, "valorParcela": 100.00, "idDespesa": 3 }
