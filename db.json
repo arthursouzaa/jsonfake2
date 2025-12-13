@@ -6,10 +6,10 @@
     { "id": 4, "tipo": "Receita", "nome": "Edição de vídeo", "data": "2025-09-20", "volume": false, "valor": 60.00,  "idCategoriaReceita": 2, "idCliente": 1 }
   ],
   "Despesa": [
-    { "id": 1, "tipo": "Despesa", "nome": "Gasolina", "data": "2025-09-18", "volume": false, "valor": 50.00, "parcelada": false, "quantidadeParcelas": 0,  "idCategoriaDespesa": 4, "idFormaPagamento": 1, "idCliente": 1 },
-    { "id": 2, "tipo": "Despesa", "nome": "Cinema", "data": "2025-09-20", "volume": false, "valor": 40.00, "parcelada": false, "quantidadeParcelas": 0,  "idCategoriaDespesa": 3, "idFormaPagamento": 2, "idCliente": 1 },
-    { "id": 3, "tipo": "Despesa", "nome": "Aluguel", "data": "2025-09-10", "volume": true, "valor": 500.00, "parcelada": false, "quantidadeParcelas": 0, "idCategoriaDespesa": 1, "idFormaPagamento": 3, "idCliente": 1 },
-    { "id": 4, "tipo": "Despesa", "nome": "Compras do mês", "data": "2025-09-03", "volume": false, "valor": 1200.00, "parcelada": true, "quantidadeParcelas": 3,  "idCategoriaDespesa": 2, "idFormaPagamento": 4, "idCliente": 1}
+    { "id": 1, "tipo": "Despesa", "nome": "Gasolina", "data": "2025-09-18", "volume": false, "valor": 50.00, "parcelada": false, "quantidadeParcelas": 0,  "paga": false, "idCategoriaDespesa": 4, "idFormaPagamento": 1, "idCliente": 1 },
+    { "id": 2, "tipo": "Despesa", "nome": "Cinema", "data": "2025-09-20", "volume": false, "valor": 40.00, "parcelada": false, "quantidadeParcelas": 0,  "paga": false, "idCategoriaDespesa": 3, "idFormaPagamento": 2, "idCliente": 1 },
+    { "id": 3, "tipo": "Despesa", "nome": "Aluguel", "data": "2025-09-10", "volume": true, "valor": 500.00, "parcelada": false, "quantidadeParcelas": 0, "paga": false, "idCategoriaDespesa": 1, "idFormaPagamento": 3, "idCliente": 1 },
+    { "id": 4, "tipo": "Despesa", "nome": "Compras do mês", "data": "2025-09-03", "volume": false, "valor": 1200.00, "parcelada": true, "quantidadeParcelas": 3,  "paga": false, "idCategoriaDespesa": 2, "idFormaPagamento": 4, "idCliente": 1}
   ],
   "CategoriaReceita": [
     { "id": 1, "tipo": "Receita", "nome": "Salário e Proventos", "idCliente": 1 },
