@@ -1,10 +1,10 @@
 {
   "Receita": [
-  { "id": 1, "tipo": "Receita", "nome": "Salário", "data": "2025-02-05", "volume": true, "valor": 2500.00, "idCategoriaReceita": 1, "idCliente": 1 },
-    { "id": 2, "tipo": "Receita", "nome": "Aluguel", "data": "2025-01-06", "volume": true, "valor": 600.00, "idCategoriaReceita": 4, "idCliente": 1 },
+  { "id": 1, "tipo": "Receita", "nome": "Salário", "data": "2018-02-05", "volume": true, "valor": 2500.00, "idCategoriaReceita": 1, "idCliente": 1 },
+    { "id": 2, "tipo": "Receita", "nome": "Aluguel", "data": "2023-01-06", "volume": true, "valor": 600.00, "idCategoriaReceita": 4, "idCliente": 1 },
     { "id": 3, "tipo": "Receita", "nome": "Presente de aniversário", "data": "2025-03-13", "volume": false, "valor": 100.00, "idCategoriaReceita": 3, "idCliente": 1 },
     { "id": 4, "tipo": "Receita", "nome": "Edição de vídeo", "data": "2025-03-20", "volume": false, "valor": 60.00, "idCategoriaReceita": 2, "idCliente": 1 },
-    { "id": 5, "tipo": "Receita", "nome": "Freelance design", "data": "2025-10-08", "volume": false, "valor": 350.00, "idCategoriaReceita": 2, "idCliente": 1 },
+    { "id": 5, "tipo": "Receita", "nome": "Freelance design", "data": "2021-10-08", "volume": false, "valor": 350.00, "idCategoriaReceita": 2, "idCliente": 1 },
     { "id": 6, "tipo": "Receita", "nome": "Venda de equipamento usado", "data": "2025-11-12", "volume": false, "valor": 800.00, "idCategoriaReceita": 3, "idCliente": 1 },
     { "id": 7, "tipo": "Receita", "nome": "Rendimento poupança", "data": "2025-10-01", "volume": true, "valor": 45.30, "idCategoriaReceita": 5, "idCliente": 1 },
     { "id": 8, "tipo": "Receita", "nome": "Aula particular", "data": "2025-12-22", "volume": false, "valor": 120.00, "idCategoriaReceita": 2, "idCliente": 1 },
@@ -14,19 +14,19 @@
     { "id": 12, "tipo": "Receita", "nome": "Freelance programação", "data": "2025-10-18", "volume": false, "valor": 700.00, "idCategoriaReceita": 2, "idCliente": 1 },
     { "id": 13, "tipo": "Receita", "nome": "Venda de livro usado", "data": "2025-11-10", "volume": false, "valor": 90.00, "idCategoriaReceita": 3, "idCliente": 1 },
     { "id": 14, "tipo": "Receita", "nome": "Rendimento investimento", "data": "2025-10-01", "volume": true, "valor": 52.80, "idCategoriaReceita": 5, "idCliente": 1 },
-    { "id": 15, "tipo": "Receita", "nome": "Rendimento investimento", "data": "2025-11-01", "volume": true, "valor": 55.10, "idCategoriaReceita": 5, "idCliente": 1 }
+    { "id": 15, "tipo": "Receita", "nome": "Rendimento investimento", "data": "2020-11-01", "volume": true, "valor": 55.10, "idCategoriaReceita": 5, "idCliente": 1 }
   ],
   "Despesa": [
-    { "id": 1, "tipo": "Despesa", "nome": "Gasolina", "data": "2025-10-18", "volume": false, "valor": 50.00, "parcelada": false, "quantidadeParcelas": 0, "paga": false, "idCategoriaDespesa": 4, "idFormaPagamento": 1, "idCliente": 1 },
+    { "id": 1, "tipo": "Despesa", "nome": "Gasolina", "data": "2019-10-18", "volume": false, "valor": 50.00, "parcelada": false, "quantidadeParcelas": 0, "paga": false, "idCategoriaDespesa": 4, "idFormaPagamento": 1, "idCliente": 1 },
     { "id": 2, "tipo": "Despesa", "nome": "Cinema", "data": "2025-02-20", "volume": false, "valor": 40.00, "parcelada": false, "quantidadeParcelas": 0, "paga": false, "idCategoriaDespesa": 3, "idFormaPagamento": 2, "idCliente": 1 },
     { "id": 3, "tipo": "Despesa", "nome": "Aluguel", "data": "2025-12-10", "volume": true, "valor": 500.00, "parcelada": false, "quantidadeParcelas": 0, "paga": false, "idCategoriaDespesa": 1, "idFormaPagamento": 3, "idCliente": 1 },
     { "id": 4, "tipo": "Despesa", "nome": "Compras do mês", "data": "2025-02-03", "volume": false, "valor": 1200.00, "parcelada": true, "quantidadeParcelas": 3, "paga": false, "idCategoriaDespesa": 2, "idFormaPagamento": 4, "idCliente": 1 },
-    { "id": 5, "tipo": "Despesa", "nome": "Internet", "data": "2025-09-05", "volume": true, "valor": 120.00, "parcelada": false, "quantidadeParcelas": 0, "paga": true, "idCategoriaDespesa": 1, "idFormaPagamento": 3, "idCliente": 1 },
+    { "id": 5, "tipo": "Despesa", "nome": "Internet", "data": "2020-09-05", "volume": true, "valor": 120.00, "parcelada": false, "quantidadeParcelas": 0, "paga": true, "idCategoriaDespesa": 1, "idFormaPagamento": 3, "idCliente": 1 },
     { "id": 6, "tipo": "Despesa", "nome": "Energia elétrica", "data": "2025-09-07", "volume": true, "valor": 210.45, "parcelada": false, "quantidadeParcelas": 0, "paga": false, "idCategoriaDespesa": 1, "idFormaPagamento": 3, "idCliente": 1 },
-    { "id": 7, "tipo": "Despesa", "nome": "Plano de saúde", "data": "2025-01-02", "volume": true, "valor": 380.00, "parcelada": false, "quantidadeParcelas": 0, "paga": true, "idCategoriaDespesa": 5, "idFormaPagamento": 2, "idCliente": 1 },
+    { "id": 7, "tipo": "Despesa", "nome": "Plano de saúde", "data": "2024-01-02", "volume": true, "valor": 380.00, "parcelada": false, "quantidadeParcelas": 0, "paga": true, "idCategoriaDespesa": 5, "idFormaPagamento": 2, "idCliente": 1 },
     { "id": 8, "tipo": "Despesa", "nome": "Restaurante", "data": "2025-05-14", "volume": false, "valor": 95.00, "parcelada": false, "quantidadeParcelas": 0, "paga": true, "idCategoriaDespesa": 3, "idFormaPagamento": 1, "idCliente": 1 },
     { "id": 9, "tipo": "Despesa", "nome": "Notebook", "data": "2025-06-21", "volume": false, "valor": 3200.00, "parcelada": true, "quantidadeParcelas": 10, "paga": false, "idCategoriaDespesa": 6, "idFormaPagamento": 4, "idCliente": 1 },
-    { "id": 10, "tipo": "Despesa", "nome": "Farmácia", "data": "2025-07-11", "volume": false, "valor": 78.90, "parcelada": false, "quantidadeParcelas": 0, "paga": true, "idCategoriaDespesa": 5, "idFormaPagamento": 1, "idCliente": 1 }
+    { "id": 10, "tipo": "Despesa", "nome": "Farmácia", "data": "2023-07-11", "volume": false, "valor": 78.90, "parcelada": false, "quantidadeParcelas": 0, "paga": true, "idCategoriaDespesa": 5, "idFormaPagamento": 1, "idCliente": 1 }
   ],
   "CategoriaReceita": [
     { "id": 1, "tipo": "Receita", "nome": "Salário e Proventos", "idCliente": 1 },
