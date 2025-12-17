@@ -8,7 +8,7 @@
     { "id": 6, "tipo": "Receita", "nome": "Venda de equipamento usado", "data": "2025-11-12", "volume": false, "valor": 800.00, "idCategoriaReceita": 3, "idCliente": 1 },
     { "id": 7, "tipo": "Receita", "nome": "Rendimento poupança", "data": "2025-10-01", "volume": true, "valor": 45.30, "idCategoriaReceita": 5, "idCliente": 1 },
     { "id": 8, "tipo": "Receita", "nome": "Aula particular", "data": "2025-12-22", "volume": false, "valor": 120.00, "idCategoriaReceita": 2, "idCliente": 1 },
-    { "id": 9, "tipo": "Receita", "nome": "Reembolso médico", "data": "2025-12-18", "volume": false, "valor": 200.00, "idCategoriaReceita": 6, "idCliente": 1 }
+    { "id": 9, "tipo": "Receita", "nome": "Reembolso médico", "data": "2025-12-18", "volume": false, "valor": 200.00, "idCategoriaReceita": 6, "idCliente": 1 },
     { "id": 10, "tipo": "Receita", "nome": "Salário", "data": "2025-10-05", "volume": true, "valor": 2500.00, "idCategoriaReceita": 1, "idCliente": 1 },
     { "id": 11, "tipo": "Receita", "nome": "Salário", "data": "2025-11-05", "volume": true, "valor": 2500.00, "idCategoriaReceita": 1, "idCliente": 1 },
     { "id": 12, "tipo": "Receita", "nome": "Freelance programação", "data": "2025-10-18", "volume": false, "valor": 700.00, "idCategoriaReceita": 2, "idCliente": 1 },
