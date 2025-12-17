@@ -35,7 +35,7 @@
     { "id": 4, "tipo": "Receita", "nome": "Aluguel Recebido", "idCliente": 1 },
     { "id": 5, "tipo": "Receita", "nome": "Rendimentos Financeiros", "idCliente": 1 },
     { "id": 6, "tipo": "Receita", "nome": "Reembolsos e Restituições", "idCliente": 1 }
-  ]
+  ],
   "CategoriaDespesa": [
     { "id": 1, "tipo": "Despesa", "nome": "Moradia", "limiteGasto": true, "valorLimite": 800.00, "idCliente": 1 },
     { "id": 2, "tipo": "Despesa", "nome": "Alimentação", "limiteGasto": true, "valorLimite": 1200.00, "idCliente": 1 },
@@ -44,7 +44,7 @@
     { "id": 5, "tipo": "Despesa", "nome": "Saúde", "limiteGasto": true, "valorLimite": 600.00, "idCliente": 1 },
     { "id": 6, "tipo": "Despesa", "nome": "Bens Duráveis", "limiteGasto": false, "valorLimite": 0.00, "idCliente": 1 },
     { "id": 7, "tipo": "Despesa", "nome": "Educação", "limiteGasto": true, "valorLimite": 500.00, "idCliente": 1 }
-  ]
+  ],
   "Parcela": [
     { "id": 1, "valorParcela": 100.00, "idDespesa": 3 }
   ]
